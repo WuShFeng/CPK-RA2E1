@@ -1,5 +1,5 @@
 # CPK-RA2E1
-![](https://github.com/WuShFeng/CPK-RA2E1/blob/main/Renesas_Electronics_logo.svg)
+![Logo](https://github.com/WuShFeng/CPK-RA2E1/blob/main/Renesas_Electronics_logo.svg)
 瑞萨RA2E1开发板学习存档
 相关资料：
 * 板子官网：`https://www.renesas.com/cpk-ra2e1`
